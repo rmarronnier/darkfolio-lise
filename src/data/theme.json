@@ -1,13 +1,13 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "Lise Marcy -  Romancière",
+  "header_title": "Lise Marcy -  Romancière",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "contact@lisemarcycom",
   "social": [
     {
       "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
+      "handle": "lisemarcy",
+      "link_text": "twitter"
     },
     {
       "channel": "instagram",
