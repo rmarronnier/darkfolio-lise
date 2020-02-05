@@ -2,7 +2,12 @@
 title: 'Events '
 thumbnail: "../static/uploads/930B0B5E-8BFE-4D75-BD4B-CC08E8567427.jpeg"
 year: "2020"
-categories: []
+categories:
+- New romance
+- Secret
+- Amour
+- Amitié
+- Romance interactive
 
 ---
 This project was created by [\[explicit\]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
