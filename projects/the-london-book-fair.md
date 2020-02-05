@@ -1,9 +1,8 @@
 ---
-title: The London Book Fair
-thumbnail: "../static/uploads/c0279e51944227.58ff649a8bbfb.jpg"
-year: "2017"
-categories:
-- Branding
+title: 'Events '
+thumbnail: "../static/uploads/930B0B5E-8BFE-4D75-BD4B-CC08E8567427.jpeg"
+year: "2020"
+categories: []
 
 ---
 This project was created by [\[explicit\]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
